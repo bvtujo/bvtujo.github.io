@@ -6,9 +6,7 @@ I build [AWS Copilot](https://github.com/aws/copilot-cli), AWS' opinionated, mag
 
 ## Contact
 Email: [austinrossely@](mailto:austinrossely+gh@gmail.com)
-
 Github: [bvtujo](https://github.com/bvtujo)
-
 Twitter: [@bvtujo](https://twitter.com/bvtujo)
 
 
