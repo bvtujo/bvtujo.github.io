@@ -8,6 +8,9 @@ I build [AWS Copilot](https://github.com/aws/copilot-cli) (AWS' opinionated, mag
 ### [DDOS](https://app.ddos.dog) (Daily Dose of Sweet)
 Dog pictures as a service. Written in Go, deployed by AWS Copilot.
 
+### [Wordpress on Copilot](https://github.com/bvtujo/copilot-wordpress)
+Everything you need to run self-hosted, autoscaling Wordpress with serverless containers on ECS. 
+
 ## Blogs
 ### [Bread Diary](https://austinely.com/bread/)
 Very small blog documenting some early sourdough experiments and, more recently, focaccia. 
