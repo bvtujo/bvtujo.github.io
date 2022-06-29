@@ -12,4 +12,5 @@ Dog pictures as a service. Written in Go, deployed by AWS Copilot.
 ### [Bread Diary](https://austinely.com/bread/)
 Very small blog documenting some early sourdough experiments and, more recently, focaccia. 
 
-
+### [The Anchovist](https://daniellelhenry01.wixsite.com/anchovist)
+During the first year of the COVID-19 pandemic, Danielle and I started a blog to keep track of our cooking. 
