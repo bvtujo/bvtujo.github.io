@@ -17,3 +17,6 @@ Very small blog documenting some early sourdough experiments and, more recently,
 
 ### [The Anchovist](https://daniellelhenry01.wixsite.com/anchovist)
 During the first year of the COVID-19 pandemic, Danielle and I started a blog to keep track of our cooking. 
+
+## Miscellanea
+* [A high-res PDF](https://www.icloud.com/iclouddrive/073HUwJpYG_XiwUVkwboF0ZBQ#tradeskin%5Fbw) of Aldrovandi's Bird Of Paradise lithograph, drawn as he imagined it in life from its legless plumage. 
