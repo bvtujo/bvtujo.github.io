@@ -19,5 +19,5 @@ Very small blog documenting some early sourdough experiments and, more recently,
 During the first year of the COVID-19 pandemic, Danielle and I started a blog to keep track of our cooking. 
 
 ## Miscellanea
-* [A high-res PDF](https://www.icloud.com/iclouddrive/073HUwJpYG_XiwUVkwboF0ZBQ#tradeskin%5Fbw) of Aldrovandi's Bird Of Paradise lithograph, drawn as he imagined it in life from its legless plumage.
-* [The same image but in SVG](https://drive.google.com/file/d/16O_jS5MENXs6_Iz5juC_if_W02T4Ki4d/view?usp=sharing)
+* [A high-res PNG](https://www.icloud.com/iclouddrive/073HUwJpYG_XiwUVkwboF0ZBQ#tradeskin%5Fbw) of Aldrovandi's Bird Of Paradise lithograph, drawn as he imagined it in life from its legless plumage.
+* [The same image but in PDF](https://drive.google.com/file/d/1qeIxlDEZd_IOOMAymqouwfzHKJOvljYk/view?usp=sharing)
