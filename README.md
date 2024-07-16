@@ -21,3 +21,4 @@ During the first year of the COVID-19 pandemic, Danielle and I started a blog to
 ## Miscellanea
 * [A high-res PNG](https://www.icloud.com/iclouddrive/073HUwJpYG_XiwUVkwboF0ZBQ#tradeskin%5Fbw) of Aldrovandi's Bird Of Paradise lithograph, drawn as he imagined it in life from its legless plumage.
 * [The same image but in reversed PDF](https://drive.google.com/file/d/1RBXrQpkubgvRRtJjkDS9vwYaFHikNmiD/view?usp=drive_link)
+* [Ross and Ray Holland](https://drive.google.com/file/d/1mKlK1m35lC7OP3yozXshvyxiQJ-jJm1J/view?usp=sharing)
