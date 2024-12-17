@@ -22,4 +22,4 @@ During the first year of the COVID-19 pandemic, Danielle and I started a blog to
 * [A high-res PNG](https://www.icloud.com/iclouddrive/073HUwJpYG_XiwUVkwboF0ZBQ#tradeskin%5Fbw) of Aldrovandi's Bird Of Paradise lithograph, drawn as he imagined it in life from its legless plumage.
 * [The same image but in reversed PDF](https://drive.google.com/file/d/1RBXrQpkubgvRRtJjkDS9vwYaFHikNmiD/view?usp=drive_link)
 * [Ross and Ray Holland](https://drive.google.com/file/d/1nzLz3IKCNPeipVLBYF-RjL_gqEyKVmtj/view?usp=sharing)
-* [Horse Concepts](https://drive.google.com/file/d/1CGTrLt7L5Xm4RBN6MKfWd34ytKCAN9nR/view?usp=drive_link)
+* [Horse Concepts](https://drive.google.com/file/d/1N4d51mXO_J-r3LHQyUD9HMmWeA3md2Oo/view?usp=drivesdk)
